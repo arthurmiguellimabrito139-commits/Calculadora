@@ -37,6 +37,7 @@ npm install
 
 # Inicie a aplicação
 $env:NODE_OPTIONS="--openssl-legacy-provider"; npm start
+```
 
 O projeto abre em `http://localhost:3000`.
 
