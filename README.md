@@ -27,7 +27,7 @@ src/
 
 ```bash
 # Clone o repositório
-git clone 
+git clone https://github.com/arthurmiguellimabrito139-commits/Calculadora.git
 
 # Entre na pasta do projeto
 cd calculadora-react
